@@ -1,0 +1,29 @@
+body{
+    background-image: url(../img/image5.webp);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.gentle{
+    height: 200px;
+    background: linear-gradient(
+        to right,
+        #ff0000
+        #cc0066
+        #660099
+        #0000ff
+    );
+
+    color: white;
+    text-align: center;
+}
+
+.gentle h1{
+    font-size: 32px;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+}

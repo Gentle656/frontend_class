@@ -1,0 +1,19 @@
+.rgb-text{
+    color: rgb(0, 100, 0);
+}
+
+.rgb-text{
+    color: rgb(128, 128, 128);
+}
+
+.rgba-text{
+    color: rgba(255, 99, 71, 1);
+}
+
+.gray-text-rgba{
+    color: rgba(70, 70, 70, 1);
+}
+
+.hex-text{
+    color: #ffffff;
+}

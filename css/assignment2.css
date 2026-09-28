@@ -1,0 +1,21 @@
+.rgb-text{
+    background-color: rgb(255, 99, 71);
+    color: white;
+}
+
+.hex-text{
+    background-color: #808080;
+    color: #ffffff;
+}
+
+.rgba-text{
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 255, 1);
+    border: 1px solid rgba(0, 0, 255, 1);
+}
+
+.rgba-text1{
+    background-color: rgba(255, 215, 0, 1);
+    color: rgba(0, 0, 255, 1);
+    border: 1px solid rgba(0, 0, 255, 1);
+}

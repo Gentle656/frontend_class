@@ -1,0 +1,11 @@
+/* For id we use # */
+*{
+    color: black;
+}
+#home-link{
+    color: red;
+}
+
+#list-link{
+    color: blueviolet;
+}
